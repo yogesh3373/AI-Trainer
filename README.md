@@ -18,11 +18,11 @@ Before running the script, make sure you have:
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/mrnithish/Voice-Ai-Trainer.git
+git clone 
 Navigate to the project directory:
 bash
 Copy code
-cd NithishProject
+cd yogeshProject
 Install the required libraries using pip:
 bash
 Copy code
